@@ -10,7 +10,7 @@
 ### Write the Code:
 1. Open your preferred text editor or IDE.
 2. Copy and paste the python codeof the main.py file of this repository into a new file.
-3. Save the file with a `.py` extension, e.g., `main.py`. `cd path/to/your/directory
+3. Save the file with a `.py` extension, e.g., `main.py`. `cd path/to/your/directory`
 
 ### Run the Code:
 1. Open a terminal or command prompt.
